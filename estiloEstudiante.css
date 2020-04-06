@@ -22,7 +22,7 @@ body {
 	width: 100%;
 	text-align: center;
 	padding: 2rem 0 1rem;
-	border-top: solid .4rem rgb(40, 49, 97);
+	border-top: solid .4rem rgb(0, 0, 0);
 	margin-bottom: 1rem;
 }
 
@@ -33,7 +33,7 @@ body {
 }
 
 h2 span {
-	color: rgb(83, 171, 243);
+	color: rgb(207, 30, 30);
 }
 
 .form__reg {
@@ -59,13 +59,13 @@ h2 span {
 }
 
 .input:focus {
-	border-bottom: solid #F39B53 .2rem;
+	border-bottom: solid rgb(218, 14, 14) .2rem;
 }
 
 .btn__submit, .btn__reset {
 	width: 40%;
 	border-bottom: none;
-	background-color: #31B1E5;
+	background-color: rgb(0, 0, 0);
 	color: white;
 }
 
@@ -74,7 +74,7 @@ h2 span {
 }
 
 .btn__submit:hover {
-	background-color: #4C9ED9;
+	background-color: rgb(206, 37, 37);
 }
 
 .btn__reset:hover{
@@ -85,7 +85,7 @@ ul{
     margin: 0;
     padding: 0;
     overflow: hidden;
-    box-shadow: 0 0 10px rgb(25, 0, 255);
+    box-shadow: 0 0 10px rgb(0, 0, 0);
 }
 li{
 	float: left;
@@ -93,7 +93,7 @@ li{
 }
 li a{
 display: block;
-color: black;
+color: rgb(0, 238, 255);
 text-align: center;
 
 padding: 10px 10px;
@@ -105,6 +105,6 @@ li a :hover{
 background-color: rgba(133, 133, 133, 0.671);
 }
 .ative{
-    background-color: royalblue;
+    background-color: rgb(0, 0, 0);
 }
 
