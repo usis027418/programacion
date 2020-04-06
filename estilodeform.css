@@ -9,7 +9,7 @@ body{
 
 .recuadro{
     border-radius: 7px;
-    border-top: 5px solid rgb(111, 0, 255);
+    border-top: 5px solid rgb(0, 195, 255);
 width: 300px;
 box-shadow: 0 0 3px 0 rgba(0, 0, 0, 0.4);
 background-color: rgba(133, 133, 133, 0.671);
