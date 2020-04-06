@@ -58,7 +58,7 @@ input[type=date]:invalid{
 }
 label{
     font-style: unset;
-    color: rgb(158, 200, 255);
+    color: rgb(182, 50, 50);
     font-size: 35px;
     size: 100px;
 }
@@ -83,7 +83,7 @@ li{
 }
 li a{
 display: block;
-color: rgb(21, 93, 228);
+color: rgb(228, 80, 21);
 text-align: center;
 padding: 10px 10px;
 text-decoration: none;
